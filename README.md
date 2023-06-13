@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Student in IDN Polytechnic Software Engineer Major<br>I'm currently learning Flutter Framework<br>I'm fun with code<br>I'm interest to be a Flutter Developer
+Has learning and experienced as Software Developer with over last then one year, Ability to understand and developer a web and application with HTML, CSS, ReactJS, Laravel and Flutter with a BLoC State Management
 
 
 ## 🌐 Socials:
