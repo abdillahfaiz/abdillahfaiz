@@ -1,5 +1,5 @@
 # 💫 About Me:
-Has learning and experienced as Software Developer with over last then one year, Ability to understand and developer a web and application with HTML, CSS, ReactJS, Laravel and Flutter with a BLoC State Management
+I have skills in developing applications using the Flutter framework for at least one year. I have experience in integrate applications with various APIs, implement attractive designs, and have experience build application and publish applications to the Play Store. 
 
 
 ## 🌐 Socials:
